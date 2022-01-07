@@ -1,0 +1,6 @@
+site_name: Gringo-Doc
+nav:
+  - Home: index.md
+  - Data Catalog: documentation_data_catalog.md
+  - Git Hub: git_support_commands.md
+theme: readthedocs
